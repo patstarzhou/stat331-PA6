@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Darien, Patrick, Rachel
 format: html
 editor: visual
 embed-resources: true
